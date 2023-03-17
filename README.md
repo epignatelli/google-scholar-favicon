@@ -22,7 +22,7 @@ You can use it with:
 
 
 <div align="center">
-    <img src="css_injection.svg" alt="css-in-readme">
+    <img src="css_injection.svg" width="400" height="400" alt="css-injection-to-readme">
 </div>
 
 <div>
